@@ -1,0 +1,23 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_login"
+        android:title="Login"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_sync"
+        android:title="Sync"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_retrieve"
+        android:title="Retrieve"
+        app:showAsAction="always"/>
+
+
+
+
+</menu>
